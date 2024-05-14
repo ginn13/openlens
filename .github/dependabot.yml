@@ -9,7 +9,7 @@ updates:
       interval: daily
     open-pull-requests-limit: 4
     reviewers:
-      - lensapp/lens-ide
+      - ginn13
     labels:
       - dependencies
     versioning-strategy: increase
